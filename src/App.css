@@ -1,0 +1,106 @@
+#nav {
+  font-size: bold;
+}
+.active {
+  margin-top: 15px;
+}
+
+.dropdown-Order{
+  margin-bottom: 35px;
+}
+
+/* ======== Start ======== */
+.main {
+	margin: 0 .5vw
+}
+/* ========= End ====== */
+ 
+.button {
+	background-color: rgb(176, 182, 176);
+	border: none;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+}
+  
+.button5 {
+	border-radius: 50%;
+	width: 45px;
+	height: 45px;
+}
+.Order {
+	margin-right: 12px;
+}
+.p{
+	color: aliceblue;
+  background-color: black;
+  height: 40px;
+   text-align: center;
+   padding: 10px;
+}
+
+.text{
+  height: 30px;
+  text-align: center;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.thumbnail {
+  position: relative;
+  padding: 0;
+  border: none;
+}
+
+/* ======== Start ======== */
+.thumbnail img {
+	height: 40vh;
+	width: 100%;
+	object-fit: cover;
+	object-position: center 0;
+}
+
+.thumbnail > p {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: black;
+  color: white;
+  z-index: 100;
+  font-size: bold;
+}
+.bar{
+  width: 35px;
+  height: 5px;
+ background-color: chocolate;
+/* ======== Start ======== */
+  margin: 0 auto 6px auto;
+/* ========= End ====== */
+}
+
+.button1{
+  height: 44px;
+  width: 80px;
+  border: 1px solid rgb(219, 219, 219);
+  border-radius:5px;
+  background-color: white;
+}
+.p1{
+  text-align: center;
+  font-size: medium;
+/* ======== Start ======== */
+  text-overflow: ellipsis;
+  white-space: nowrap;	
+  overflow-x: hidden; 
+/* ========= End ====== */
+}
+
+.p2{
+  text-align: center;
+  font-weight: bold;
+}
+

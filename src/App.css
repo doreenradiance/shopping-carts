@@ -1,3 +1,6 @@
+.navbar {
+  background-color: aqua;
+}
 #nav {
   font-size: bold;
 }
@@ -9,11 +12,9 @@
   margin-bottom: 35px;
 }
 
-/* ======== Start ======== */
 .main {
 	margin: 0 .5vw
 }
-/* ========= End ====== */
  
 .button {
 	background-color: rgb(176, 182, 176);
@@ -31,9 +32,7 @@
 	width: 45px;
 	height: 45px;
 }
-.Order {
-	margin-right: 12px;
-}
+
 .p{
 	color: aliceblue;
   background-color: black;
@@ -56,7 +55,6 @@
   border: none;
 }
 
-/* ======== Start ======== */
 .thumbnail img {
 	height: 40vh;
 	width: 100%;
@@ -77,9 +75,7 @@
   width: 35px;
   height: 5px;
  background-color: chocolate;
-/* ======== Start ======== */
   margin: 0 auto 6px auto;
-/* ========= End ====== */
 }
 
 .button1{
@@ -92,11 +88,9 @@
 .p1{
   text-align: center;
   font-size: medium;
-/* ======== Start ======== */
   text-overflow: ellipsis;
   white-space: nowrap;	
   overflow-x: hidden; 
-/* ========= End ====== */
 }
 
 .p2{

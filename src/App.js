@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './bootstrap/css/bootstrap.css';
 import './App.css'
 import Navbar from './navbar.js'
